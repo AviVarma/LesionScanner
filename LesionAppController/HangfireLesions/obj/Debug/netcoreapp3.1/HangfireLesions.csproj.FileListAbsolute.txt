@@ -1,0 +1,8 @@
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\bin\Debug\netcoreapp3.1\HangfireLesions.deps.json
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\bin\Debug\netcoreapp3.1\HangfireLesions.dll
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\bin\Debug\netcoreapp3.1\HangfireLesions.pdb
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\obj\Debug\netcoreapp3.1\HangfireLesions.csprojAssemblyReference.cache
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\obj\Debug\netcoreapp3.1\HangfireLesions.AssemblyInfoInputs.cache
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\obj\Debug\netcoreapp3.1\HangfireLesions.AssemblyInfo.cs
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\obj\Debug\netcoreapp3.1\HangfireLesions.dll
+D:\Documents\Year 3\Dissertation\Project\LesionAppController\HangfireLesions\obj\Debug\netcoreapp3.1\HangfireLesions.pdb
